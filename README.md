@@ -116,7 +116,7 @@ exam_management/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/aman179102/Exam-Management.git
    cd exam_management
    ```
 
